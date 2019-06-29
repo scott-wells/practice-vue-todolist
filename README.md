@@ -1,4 +1,7 @@
-# vue-crash-todolist
+# practice-vue-todolist
+
+Tutorial by Brad Traversy
+http://www.traversymedia.com
 
 ## Project setup
 ```
