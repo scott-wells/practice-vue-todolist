@@ -13,7 +13,7 @@
     "core-js": "^2.6.5",
     "eslint-utils": "^2.0.0",
     "kind-of": "^6.0.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "lodash.defaultsdeep": "^4.6.1",
     "minimist": "^1.2.5",
     "serialize-javascript": "^3.0.0",
